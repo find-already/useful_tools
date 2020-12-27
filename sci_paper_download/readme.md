@@ -1,5 +1,5 @@
 
-#### 下载步骤
+#### sci pagper 下载步骤
 - 首先通过网站(?)获取论文的  doi 集合
 - 将 doi 写入一个文本文件中: file_src.list
 - 启动 sci_smart_download.sh, 开始下载
